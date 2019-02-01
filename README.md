@@ -36,3 +36,7 @@ virtualenv (virtual environment manager), <br>
 3) Activate virtual environment
 4) Move to target folder
 5) Execute `python manage.py test`
+
+## How it looks like
+
+![alt text](https://github.com/BurhanH/areket/raw/master/phase-1-1.png "Phase 1. Home page") <br>
