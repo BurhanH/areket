@@ -40,3 +40,17 @@ virtualenv (virtual environment manager), <br>
 ## How it looks like
 
 ![alt text](https://github.com/BurhanH/areket/raw/master/phase-1-1.png "Phase 1. Home page") <br>
+
+![alt text](https://github.com/BurhanH/areket/raw/master/phase-1-2.png "Phase 1. About page") <br>
+
+![alt text](https://github.com/BurhanH/areket/raw/master/phase-2-1.png "Phase 2. Home page") <br>
+
+![alt text](https://github.com/BurhanH/areket/raw/master/phase-2-2.png "Phase 2. Admin login page") <br>
+
+![alt text](https://github.com/BurhanH/areket/raw/master/phase-2-3.png "Phase 2. Admin page") <br>
+
+![alt text](https://github.com/BurhanH/areket/raw/master/phase-2-4.png "Phase 2. Admin post page") <br>
+
+
+
+
