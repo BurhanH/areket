@@ -5,11 +5,11 @@ Series of small projects based on Django Web Framework
 
 [Phase 2](https://github.com/BurhanH/areket-phase-2 "Phase 2")
 
-[Phase 3](https://github.com/BurhanH/areket "Phase 3 under construction")
+[Phase 3 under construction](https://github.com/BurhanH/areket "Phase 3 under construction")
 
-[Phase 4](https://github.com/BurhanH/areket "Phase 4 under construction")
+[Phase 4 under construction](https://github.com/BurhanH/areket "Phase 4 under construction")
 
-[Phase 5](https://github.com/BurhanH/areket "Phase 5 under construction")
+[Phase 5 under construction](https://github.com/BurhanH/areket "Phase 5 under construction")
 
 
 ## Requirements
