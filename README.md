@@ -39,16 +39,28 @@ virtualenv (virtual environment manager), <br>
 
 ## How it looks like
 
-![alt text](https://github.com/BurhanH/areket/raw/master/phase-1-1.png "Phase 1. Home page") <br>
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-1-1.png "Phase 1. Home page") <br>
 
-![alt text](https://github.com/BurhanH/areket/raw/master/phase-1-2.png "Phase 1. About page") <br>
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-1-2.png "Phase 1. About page") <br>
 
-![alt text](https://github.com/BurhanH/areket/raw/master/phase-2-1.png "Phase 2. Home page") <br>
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-2-1.png "Phase 2. Home page") <br>
 
-![alt text](https://github.com/BurhanH/areket/raw/master/phase-2-2.png "Phase 2. Admin login page") <br>
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-2-2.png "Phase 2. Admin login page") <br>
 
-![alt text](https://github.com/BurhanH/areket/raw/master/phase-2-3.png "Phase 2. Admin page") <br>
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-2-3.png "Phase 2. Admin page") <br>
 
-![alt text](https://github.com/BurhanH/areket/raw/master/phase-2-4.png "Phase 2. Admin post page") <br>
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-2-4.png "Phase 2. Admin post page") <br>
 
 ![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-3-1.png "Phase 3. Home page") <br>
+
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-3-2.png "Phase 3. Post page") <br>
+
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-3-3.png "Phase 3. Admin page") <br>
+
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-3-4.png "Phase 3. Posts page") <br>
+
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-3-5.png "Phase 3. Edit post page") <br>
+
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-3-6.png "Phase 3. Post history page") <br>
+
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-3-7.png "Phase 3. New post page") <br>
