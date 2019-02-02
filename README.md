@@ -51,6 +51,4 @@ virtualenv (virtual environment manager), <br>
 
 ![alt text](https://github.com/BurhanH/areket/raw/master/phase-2-4.png "Phase 2. Admin post page") <br>
 
-
-
-
+![alt text](https://github.com/BurhanH/areket/screenshots/raw/master/phase-3-1.png "Phase 3. Home page") <br>
