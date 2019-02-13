@@ -15,7 +15,7 @@ Series of small projects based on Django Web Framework
 [Phase 5 under construction](https://github.com/BurhanH/areket "Phase 5 under construction")
 
 ## Requirements
-Python 3.7.\*, Django 2.1.5, <br>
+Python 3.7.\*, Django 2.1.7, <br>
 virtualenv (virtual environment manager), <br>
 
 ## How to prepare environment
