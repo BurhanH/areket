@@ -12,7 +12,7 @@ Series of small projects based on Django Web Framework
 
 [Phase 4](https://github.com/BurhanH/areket-phase-4 "Phase 4") 
 
-Real life result - [areket.herokuapp.com](https://areket.herokuapp.com/ "Areket project")
+Result - [areket.herokuapp.com](https://areket.herokuapp.com/ "Areket project")
 
 ## Requirements
 Python 3.7.\*, Django 2.1.7, <br>
