@@ -12,7 +12,6 @@ Series of small projects based on Django Web Framework
 
 [Phase 4](https://github.com/BurhanH/areket-phase-4 "Phase 4")
 
-
 ## Requirements
 Python 3.7.\*, Django 2.1.7, <br>
 virtualenv (virtual environment manager), <br>
