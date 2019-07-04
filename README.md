@@ -15,7 +15,7 @@ Series of small projects based on Django Web Framework
 Result - [areket.herokuapp.com](https://areket.herokuapp.com/ "Areket project")
 
 ## Requirements
-Python 3.7.\*, Django 2.1.7, <br>
+Python 3.7.\*, Django 2.2.3, <br>
 virtualenv (virtual environment manager), <br>
 
 ## How to prepare environment
