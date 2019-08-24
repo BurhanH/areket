@@ -43,8 +43,8 @@ virtualenv (virtual environment manager), <br>
 
 ![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/result.png "Final result. Home page") <br>
 
-![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-1-2.png "Phase 1. About page") <br>
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/result_2.png "Final result. Articles") <br>
 
-![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-2-1.png "Phase 2. Home page") <br>
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/result_3.png "Final result. Sign Up") <br>
 
-![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/phase-2-2.png "Phase 2. Admin login page") <br>
+![alt text](https://github.com/BurhanH/areket/raw/master/screenshots/result_4.png "Final result. Log In") <br>
