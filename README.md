@@ -2,7 +2,6 @@
 Series of small projects based on Django Web Framework
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/areket/blob/master/LICENSE)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/194faa458a1347bfac202f240fdae9bf)](https://www.codacy.com/app/BurhanH/areket?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BurhanH/areket&amp;utm_campaign=Badge_Grade)
 
 [Phase 1](https://github.com/BurhanH/areket-phase-1 "Phase 1") 
 
